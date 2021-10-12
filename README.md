@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jocquese
-- 👀 I’m interested in front end developer / web developer work
+- 👀 I’m interested in learning and becoming front end developer / web developer
 - 🌱 I’m currently learning modern languages use to build websites (HTML, CSS, PHP, JavaScript, React, etc.)
 - 📫 How to reach me
       Email: sandersjocquese@yahoo.com
